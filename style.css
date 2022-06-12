@@ -225,8 +225,9 @@ span b{
 
 .titleNC{
 
-      position: absolute;
-  top: 10%;
-  left: 25%;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
